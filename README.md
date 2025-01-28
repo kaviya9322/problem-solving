@@ -7,7 +7,6 @@ This repository is where I document my journey of improving coding skills by sol
 ## Programming Languages Used
 
 - Python 🐍
-- 
 (Additional languages may be added as I explore more technologies.)
 
 ## Problem Sources
